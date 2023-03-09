@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test Amazon search functionality" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-03-09T17:24:19" hostname="ARCHMATT" time="26.784">
+  <properties/>
+  <testcase name="As a costumer when i search for Alexa, i want to see if the third option on the second page is available #1" classname="Test Amazon search functionality" time="15.941"/>
+  <testcase name="As a costumer when i search for Alexa, i want to see if the third option on the second page is available #2" classname="Test Amazon search functionality" time="10.843"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 37465
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1678382660.964][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 09, 2023 2:24:21 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: 109
+]]></system-err>
+</testsuite>
